@@ -13,7 +13,7 @@ h1{
 }
 td{
     width:62px;
-    /* height: 98px; */
+    height: 98px;
 }
 .borderSolid{
     border: solid;
@@ -111,4 +111,44 @@ td{
 }
 .TrTamanho{
     margin-bottom: 20px;
+}
+.pMenor{
+    font-size: 12px;
+}
+.spanMenor{
+    font-size: 9px;
+    transform: translateY(-65px);
+}
+.numeroAtomico{
+    transform: translateY(-27px);
+}
+.simboloQuimico{
+    transform: translateY(-25px);
+}
+.nome{
+    transform: translateY(-27px);
+}
+.litioNumero{
+    font-size: 10px;
+}
+.pesoAtomico{
+    transform: translateY(-47px);
+}
+.linha{
+    background-color: black;
+    height: 2px;
+    width: 100%;
+}
+.emcima{
+    transform: translateY(-40px);
+}
+.meio1{
+    transform: translateY(-5px);
+}
+.meio2{
+    transform: translateY(25px);
+
+}
+.embaixo{
+    transform: translateY(35px);
 }
