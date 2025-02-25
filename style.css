@@ -120,7 +120,7 @@ td{
     transform: translateY(-65px);
 }
 .numeroAtomico{
-    transform: translateY(-27px);
+    transform: translateY(-25px);
 }
 .simboloQuimico{
     transform: translateY(-25px);
@@ -140,15 +140,38 @@ td{
     width: 100%;
 }
 .emcima{
-    transform: translateY(-40px);
+    /* transform: translateY(-40px); */
+    display: none;
 }
 .meio1{
-    transform: translateY(-5px);
+    /* transform: translateY(-5px); */
+    display: none;
 }
 .meio2{
-    transform: translateY(25px);
-
+    /* transform: translateY(25px); */
+    display: none;
 }
 .embaixo{
-    transform: translateY(35px);
+    /* transform: translateY(35px); */
+    display: none;
+}
+.linhass{
+    background-color: black;
+    height: 2px;
+}
+.um{
+    transform: translateY(-1085px) translateX(280px);
+    width: 110px;
+}
+.dois{
+    transform: translateY(-1055px) translateX(310px);
+    width: 80px;
+}
+.tres{   
+    transform: translateY(-1025px) translateX(320px);
+    width: 70px;
+}
+.quatro{
+    transform: translateY(-1015px) translateX(327px);
+    width: 63px;
 }
